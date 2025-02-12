@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"90bc82bbffacef94","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60,"color":"3"},
+		{"id":"a5a5b36bca75084c","type":"text","text":"Index Id\n","x":-125,"y":-30,"width":250,"height":60,"color":"3"},
+		{"id":"e0ae58e6e800d8b5","type":"text","text":"1.. 100","x":-320,"y":120,"width":125,"height":60,"color":"3"},
+		{"id":"8d68309222168f35","type":"text","text":"BTREE - Binary Tree - Бинарное дерево","x":-443,"y":-160,"width":371,"height":60},
+		{"id":"63231e616187410c","type":"text","text":"101..200","x":-62,"y":120,"width":125,"height":60,"color":"3"},
+		{"id":"fad598064972c6bf","type":"text","text":"51.. 100","x":102,"y":340,"width":120,"height":60,"color":"3"},
+		{"id":"674681cbb7ddf050","type":"text","text":"1...50","x":-53,"y":340,"width":107,"height":60,"color":"3"},
+		{"id":"189a786ee5192d7e","type":"text","text":"1...50","x":-400,"y":340,"width":107,"height":60,"color":"3"},
+		{"id":"bd667c6208d4d164","type":"text","text":"51.. 100","x":-245,"y":340,"width":120,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"1e39da694b75f92a","fromNode":"a5a5b36bca75084c","fromSide":"bottom","toNode":"e0ae58e6e800d8b5","toSide":"top"},
+		{"id":"126cdedca941b151","fromNode":"a5a5b36bca75084c","fromSide":"bottom","toNode":"63231e616187410c","toSide":"top"},
+		{"id":"6015a56e480f1e56","fromNode":"e0ae58e6e800d8b5","fromSide":"bottom","toNode":"189a786ee5192d7e","toSide":"top"},
+		{"id":"cc25478451f07041","fromNode":"e0ae58e6e800d8b5","fromSide":"bottom","toNode":"bd667c6208d4d164","toSide":"top"},
+		{"id":"6fe5c0de3e63b387","fromNode":"63231e616187410c","fromSide":"bottom","toNode":"674681cbb7ddf050","toSide":"top"},
+		{"id":"57a890a293dd5966","fromNode":"63231e616187410c","fromSide":"bottom","toNode":"fad598064972c6bf","toSide":"top"}
+	]
+}
