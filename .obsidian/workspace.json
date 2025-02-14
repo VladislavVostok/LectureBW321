@@ -11,14 +11,10 @@
             "id": "45d4000311bdc781",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сервера/LSB/2. Добавление чат сервера..md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. Добавление чат сервера."
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -182,7 +178,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "45d4000311bdc781",
+  "active": "b60932d4866b10b6",
   "lastOpenFiles": [
     "Сервера/Архитектура игровых серверов.md",
     "Сервера/LSB/2. Добавление чат сервера..md",
